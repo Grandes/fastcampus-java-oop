@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/java,intellij+all,gradle,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,intellij+all,gradle,macos
+=======
+# Created by https://www.toptal.com/developers/gitignore/api/java,intellij+all,gradle
+# Edit at https://www.toptal.com/developers/gitignore?templates=java,intellij+all,gradle
+>>>>>>> develop
 
 ### Intellij+all ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
@@ -115,6 +120,7 @@ fabric.properties
 hs_err_pid*
 replay_pid*
 
+<<<<<<< HEAD
 ### macOS ###
 # General
 .DS_Store
@@ -148,6 +154,8 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
+=======
+>>>>>>> develop
 ### Gradle ###
 .gradle
 **/build/
@@ -171,4 +179,8 @@ gradle-app.setting
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
+<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij+all,gradle,macos
+=======
+# End of https://www.toptal.com/developers/gitignore/api/java,intellij+all,gradle
+>>>>>>> develop
